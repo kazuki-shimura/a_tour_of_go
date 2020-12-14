@@ -1,6 +1,9 @@
 # a_tour_of_go
 
-    ビルド方法
+    build(コンパイル)方法(ファイル作成)
+        go build ファイル名
+    ファイル実行
+        ./ファイル名 (拡張子.goはいらない)
 
-    ビルドとファイル実行
-    go run hello.go
+    buildとファイル実行
+        go run ファイル名
